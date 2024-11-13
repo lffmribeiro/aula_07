@@ -1,3 +1,5 @@
+#respondendo ao exercício 2
+
 import random
 
 def coletar_temperatura_sensor():
